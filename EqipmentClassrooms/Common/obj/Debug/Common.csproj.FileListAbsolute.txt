@@ -1,0 +1,9 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common\obj\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common\obj\Debug\Common.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common\bin\Debug\Common.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common\bin\Debug\Common.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common\obj\Debug\Common.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common\obj\Debug\Common.pdb

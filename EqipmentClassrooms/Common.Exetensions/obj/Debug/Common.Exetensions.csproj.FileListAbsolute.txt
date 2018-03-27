@@ -1,0 +1,27 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Exetensions\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Exetensions\obj\Debug\Common.Exetensions.pdb

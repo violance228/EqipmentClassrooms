@@ -1,0 +1,17 @@
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceTypeEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceEqipmentTypes.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceType.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentAudienceEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentTypeEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceEqipmentTypesEditing.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceEqipmentTypesEditing.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FAudienceTypeEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentAudienceEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.ObjectEditing.FEqipmentTypeEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.Forms.Editing\obj\Release\EqipmentClassrooms.Forms.Editing.csproj.GenerateResource.Cache

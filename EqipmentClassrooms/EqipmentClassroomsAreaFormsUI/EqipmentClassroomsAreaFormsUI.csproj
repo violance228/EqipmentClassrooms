@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2428F6D8-8CB7-49B1-AF46-7DF9A7B45228}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EqipmentClassroomsAreaFormsUI</RootNamespace>
+    <AssemblyName>EqipmentClassroomsAreaFormsUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\FEqipmentClassroomsAreaAboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FEqipmentClassroomsAreaAboutBox.designer.cs">
+      <DependentUpon>FEqipmentClassroomsAreaAboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FEqipmentClassroomsAreaMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FEqipmentClassroomsAreaMain.Designer.cs">
+      <DependentUpon>FEqipmentClassroomsAreaMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managers\EqipmentClassroomsDataSetEditingManager.cs" />
+    <Compile Include="Managers\EqipmentClassroomsObjectEditingManager.cs" />
+    <Compile Include="program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\FEqipmentClassroomsAreaAboutBox.resx">
+      <DependentUpon>FEqipmentClassroomsAreaAboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FEqipmentClassroomsAreaMain.resx">
+      <DependentUpon>FEqipmentClassroomsAreaMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Common.Characteristics.csproj">
+      <Project>{be1b6f7a-5a63-4fe5-b4d7-19de235a6c0d}</Project>
+      <Name>Common.Characteristics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Data.FileIO\Common.Data.FileIO.csproj">
+      <Project>{dae0bed2-ffb7-4a7c-8310-8153ac69be62}</Project>
+      <Name>Common.Data.FileIO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Data.Integrity\Common.Data.Integrity.csproj">
+      <Project>{0a6c83d0-601f-454a-939d-bc06bc5ad960}</Project>
+      <Name>Common.Data.Integrity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Data\Common.Data.csproj">
+      <Project>{34fc037e-44ac-4583-8532-53888221d600}</Project>
+      <Name>Common.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Entities\Common.Entities.csproj">
+      <Project>{e82e7e06-734b-4208-a7eb-ee736f462174}</Project>
+      <Name>Common.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Events\Common.Events.csproj">
+      <Project>{764b1d0a-4018-49dc-95df-e2905e2ca90e}</Project>
+      <Name>Common.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Exetensions\Common.Exetensions.csproj">
+      <Project>{c5cdde7d-2c0b-42a4-b66e-ecb5047cb8eb}</Project>
+      <Name>Common.Exetensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Forms.TextBrowsing\Common.Forms.TextBrowsing.csproj">
+      <Project>{5ca07566-9387-49f2-b572-286adb45ba31}</Project>
+      <Name>Common.Forms.TextBrowsing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.Data.Integrity\EqipmentClassrooms.Data.Integrity.csproj">
+      <Project>{3f06d475-1a22-4ec9-9e5c-0393f01f7e4a}</Project>
+      <Name>EqipmentClassrooms.Data.Integrity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.Data\EqipmentClassrooms.Data.csproj">
+      <Project>{33687004-0288-4010-b145-635b7021c4ac}</Project>
+      <Name>EqipmentClassrooms.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.FileIO\EqipmentClassrooms.FileIO.csproj">
+      <Project>{c2236715-7e25-498e-8a0f-3925a268b9c5}</Project>
+      <Name>EqipmentClassrooms.FileIO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.Forms.Editing\EqipmentClassrooms.Forms.Editing.csproj">
+      <Project>{06ce5f8d-61c4-4c0b-9949-864e13cd8f0e}</Project>
+      <Name>EqipmentClassrooms.Forms.Editing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.Processing\EqipmentClassrooms.Processing.csproj">
+      <Project>{59f0d934-f0c5-46c6-b475-6e1b5892ee12}</Project>
+      <Name>EqipmentClassrooms.Processing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms.StudyObjects\EqipmentClassrooms.StudyObjects.csproj">
+      <Project>{7fb8489d-a5b3-456d-b3e0-6ac48239f808}</Project>
+      <Name>EqipmentClassrooms.StudyObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EqipmentClassrooms\EqipmentClassrooms.csproj">
+      <Project>{992c2c03-a352-41a8-9b91-da4fc4fdc998}</Project>
+      <Name>EqipmentClassrooms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shared\Common.Forms.Editing\Common.Forms.Editing.csproj">
+      <Project>{2d116f99-17b7-4775-a6ec-96e95353e92f}</Project>
+      <Name>Common.Forms.Editing</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="globe1.ico" />
+    <None Include="Resources\view_detail_16.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\document-open.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\filter_delete.png" />
+    <None Include="Resources\globe.png" />
+    <Content Include="Resources\globe1.ico" />
+    <None Include="Resources\globe1.png" />
+    <None Include="Resources\New document.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\save_as.png" />
+    <None Include="Resources\save_copy.png" />
+    <None Include="Resources\Text Document.png" />
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

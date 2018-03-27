@@ -1,0 +1,8 @@
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\bin\Release\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\bin\Release\Common.Events.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\obj\Release\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\obj\Release\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\bin\Release\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\bin\Release\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\obj\Release\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\obj\Release\Common.Events.pdb

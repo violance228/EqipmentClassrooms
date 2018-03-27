@@ -1,0 +1,204 @@
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\bin\Debug\Common.Context.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\bin\Debug\Common.Context.pdb
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionRepresentation_interf\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\bin\Debug\Common.Context.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\bin\Debug\Common.Context.pdb
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+F:\###VTK\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\11_GeographicalRegionsTraining\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\bin\Debug\Common.Context.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\bin\Debug\Common.Context.pdb
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\###VTK\##Програмування\####Зразки проектів\GraphRepresentations\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.Context.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Characteristics\bin\Debug\Common.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.Context.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.Context.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\bin\Debug\Common.pdb
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea\CountriesArea_basic_err\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.Context.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\bin\Debug\Common.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.pdb
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.dll
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.pdb
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Users\student\Downloads\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_Population_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-3\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-3\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-3\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-3\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-4\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-4\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-4\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-4\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_Population_min_2-4\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-5\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-5\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-5\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-5\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Work\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-6\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_min\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_min\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_min\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_min\CountriesArea_PR_min_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Characteristics\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Characteristics\obj\Debug\Common.Characteristics.pdb

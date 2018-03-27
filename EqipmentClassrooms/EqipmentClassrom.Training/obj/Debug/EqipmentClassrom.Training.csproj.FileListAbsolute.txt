@@ -1,0 +1,85 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe.config
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe.config
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.StudyObjects.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.StudyObjects.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe.config
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe.config
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.exe
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe.config
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrom.Training.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.exe
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassrom.Training\obj\Debug\EqipmentClassrom.Training.pdb

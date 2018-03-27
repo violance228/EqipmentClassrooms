@@ -1,0 +1,10 @@
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Release\Common.Forms.Editing.csproj.GenerateResource.Cache

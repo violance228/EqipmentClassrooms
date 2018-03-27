@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Common.Forms.Editing.FEntitiesDataSetEditor">
+    <Position X="2.5" Y="1.25" Width="3.75" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="imageListEditing" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="labelEntities" Hidden="true" />
+      <Field Name="labelEntityObjects" Hidden="true" />
+      <Field Name="labelObjectData" Hidden="true" />
+      <Field Name="listBoxEntities" Hidden="true" />
+      <Field Name="listBoxEntityObjects" Hidden="true" />
+      <Field Name="menuEditing" Hidden="true" />
+      <Field Name="menuEditingAddObject" Hidden="true" />
+      <Field Name="menuEditingDeleteObject" Hidden="true" />
+      <Field Name="menuEditingEditObject" Hidden="true" />
+      <Field Name="menuEditingEntityData" Hidden="true" />
+      <Field Name="menuEditingLoadTestData" Hidden="true" />
+      <Field Name="menuFile" Hidden="true" />
+      <Field Name="menuFileClose" Hidden="true" />
+      <Field Name="menuFileExit" Hidden="true" />
+      <Field Name="menuFileNew" Hidden="true" />
+      <Field Name="menuFileOpen" Hidden="true" />
+      <Field Name="menuFileSave" Hidden="true" />
+      <Field Name="menuFileSaveAs" Hidden="true" />
+      <Field Name="menuFileSaveAsText" Hidden="true" />
+      <Field Name="menuFileSaveCopyAs" Hidden="true" />
+      <Field Name="menuSeparatorEditingEntityData" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="panelControls" Hidden="true" />
+      <Field Name="richTextBoxObjectData" Hidden="true" />
+      <Field Name="splitContainerData" Hidden="true" />
+      <Field Name="splitContainerMain" Hidden="true" />
+      <Field Name="splitContainerSelection" Hidden="true" />
+      <Field Name="statusStrip1" Hidden="true" />
+      <Field Name="tableLayoutPanelEntities" Hidden="true" />
+      <Field Name="tableLayoutPanelEntityObjects" Hidden="true" />
+      <Field Name="tableLayoutPanelObjectData" Hidden="true" />
+      <Field Name="toolStripButtonAdd" Hidden="true" />
+      <Field Name="toolStripButtonDelete" Hidden="true" />
+      <Field Name="toolStripButtonEdit" Hidden="true" />
+      <Field Name="toolStripButtonNew" Hidden="true" />
+      <Field Name="toolStripButtonOpen" Hidden="true" />
+      <Field Name="toolStripButtonSave" Hidden="true" />
+      <Field Name="toolStripEditing" Hidden="true" />
+      <Field Name="toolStripPanelBottom" Hidden="true" />
+      <Field Name="toolStripPanelLeft" Hidden="true" />
+      <Field Name="toolStripPanelRight" Hidden="true" />
+      <Field Name="toolStripPanelTop" Hidden="true" />
+      <Field Name="toolStripSeparator2" Hidden="true" />
+      <Field Name="toolStripSeparator3" Hidden="true" />
+      <Field Name="toolStripSeparator5" Hidden="true" />
+      <Field Name="toolStripSeparator6" Hidden="true" />
+      <Field Name="toolStripStandard" Hidden="true" />
+      <Field Name="toolStripStatusLabelMessage" Hidden="true" />
+    </Members>
+    <AssociationLine Name="_fileOperationsController" Type="Common.Data.FileIO.Interfaces.IFileOperationsController" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="5.312" />
+        <Point X="7.125" Y="5.312" />
+        <Point X="7.125" Y="4.988" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.805" Y="0.152" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_dataSetEditingManager" Type="Common.Forms.Editing.Interfaces.IDataSetEditingManager" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="7.562" />
+        <Point X="7.125" Y="7.562" />
+        <Point X="7.125" Y="7.247" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-1.836" Y="0.11" Height="0.182" Width="1.723" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_objectEditingController" Type="Common.Forms.Editing.Interfaces.IEntityObjectEditingController" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.938" Y="9.54" />
+        <Point X="5.938" Y="10.203" />
+        <Point X="7.062" Y="10.203" />
+        <Point X="7.062" Y="9.882" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.742" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>BQlISfyQgqJgRUIAYNDhFSaHSWCYAhYAAAForIKUAAU=</HashCode>
+      <FileName>FEntitiesDataSetEditor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_fileOperationsController" />
+      <Field Name="_dataSetEditingManager" />
+      <Field Name="_objectEditingController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Common.Forms.Editing.FBindingListEditor&lt;T&gt;">
+    <Position X="10" Y="8" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAQAAAIAAAAAA=</HashCode>
+      <FileName>FBindingListEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Forms.Editing.Controllers.FormFileOperationsController">
+    <Position X="10" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAgAgZAAAAEQICIAAAAQAAAQCAABAAQAANAEAgDACAA=</HashCode>
+      <FileName>Controllers\FormFileOperationsController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.Forms.Editing.Events.EditingEventArgs">
+    <Position X="2.5" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Events\EditingEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Forms.Editing.Events.NumberEditingEventArgs">
+    <Position X="6.75" Y="14.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAASAAAAAAAAAAAAAAIAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Events\NumberEditingEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Forms.Editing.Settings.EditingStatesColors">
+    <Position X="4.5" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAABAAAAAAQAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Settings\EditingStatesColors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Common.Data.FileIO.Interfaces.IFileOperationsController">
+    <Position X="6.75" Y="1.25" Width="2.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Common.Forms.Editing.Interfaces.IEntityObjectEditingController">
+    <Position X="6.75" Y="7.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAABAACAAAAAAAAAgEAAAA=</HashCode>
+      <FileName>Interfaces\IEntityObjectEditingController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Common.Forms.Editing.Interfaces.IDataSetEditingManager">
+    <Position X="6.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgFAAAA=</HashCode>
+      <FileName>Interfaces\IDataSetEditingManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

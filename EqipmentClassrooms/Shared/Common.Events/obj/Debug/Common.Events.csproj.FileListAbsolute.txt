@@ -1,0 +1,13 @@
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Common.Events\bin\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Common.Events\bin\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Common.Events\obj\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Common.Events\obj\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Events\bin\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Events\bin\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Events\obj\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Events\obj\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Events\bin\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Events\bin\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Events\obj\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Events\obj\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Events\obj\Debug\Common.Events.csprojResolveAssemblyReference.cache

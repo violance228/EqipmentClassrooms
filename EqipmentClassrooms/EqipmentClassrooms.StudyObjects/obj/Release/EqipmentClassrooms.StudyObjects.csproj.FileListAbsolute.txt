@@ -1,0 +1,2 @@
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassrooms.StudyObjects\obj\Release\EqipmentClassrooms.StudyObjects.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassrooms.StudyObjects\obj\Release\EqipmentClassrooms.StudyObjects.csprojResolveAssemblyReference.cache

@@ -1,0 +1,229 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe.config
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaDataSetEditor.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.exe
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.exe
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.exe
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll.config
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassroomsAreaFormsUI.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.exe
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.Integrity.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.TextBrowsing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.Integrity.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Data.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.FileIO.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Forms.Editing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.Processing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.StudyObjects.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaAboutBox.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Forms.FEqipmentClassroomsAreaMain.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.Properties.Resources.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.exe
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsAreaFormsUI\obj\Debug\EqipmentClassroomsAreaFormsUI.pdb

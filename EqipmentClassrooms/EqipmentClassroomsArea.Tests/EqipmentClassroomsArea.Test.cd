@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="EqipmentClassrooms.Tests.EqimpmentUnitTest">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgMAAAACAEEAAAAAAAAACAAAgAAAAIAAAACAAQAAQ=</HashCode>
+      <FileName>EqipmentUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EqipmentClassrooms.Tests.AudienceEqipmentTypeUnitTest">
+    <Position X="0.5" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAQAARAAABAAACAAAAgEAAAIgAIAAACIAAAA=</HashCode>
+      <FileName>AudienceEqipmentTypeUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EqipmentClassrooms.Tests.AudienceTypeUnitTest">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgMAAAACAEEAAAAAAAAACAAAgAAAAIAAAACAAQAAQ=</HashCode>
+      <FileName>AudienceTypeUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EqipmentClassrooms.Tests.AudienceUnitTest">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgMAAAACAEEAAAAAAAAACAAAgAAAAIAAAACAAQAAQ=</HashCode>
+      <FileName>AudienceUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EqipmentClassrooms.Tests.EqipmentTypeUnitTest">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgMAAAACAEEAAAAAAAAACAAAgAAAAIAAAACAAQAAQ=</HashCode>
+      <FileName>EqipmentTypeUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+<Class Name="EqipmentClassrooms.Tests.EqipmentAudienceUnitTest">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgMAAAACAEEAAAAAAAAACAAAgAAAAIAAAACAAQAAQ=</HashCode>
+      <FileName>EqipmentTypeUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

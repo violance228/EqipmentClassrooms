@@ -1,0 +1,8 @@
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\obj\Release\ClassLibrary1.pdb

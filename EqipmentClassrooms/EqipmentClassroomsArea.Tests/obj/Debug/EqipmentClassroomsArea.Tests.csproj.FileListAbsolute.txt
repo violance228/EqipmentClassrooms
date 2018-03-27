@@ -1,0 +1,116 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+K:\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\obj\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassroomsArea.Tests.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\EqipmentClassrooms.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\EqipmentClassroomsArea.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

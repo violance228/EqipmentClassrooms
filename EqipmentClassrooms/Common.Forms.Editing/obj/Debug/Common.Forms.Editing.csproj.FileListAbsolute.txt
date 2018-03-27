@@ -1,0 +1,4 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb

@@ -1,0 +1,15 @@
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\bin\Debug\Common.dll
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\bin\Debug\Common.pdb
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.csprojResolveAssemblyReference.cache
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.Cache
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\bin\Debug\Common.Forms.dll.config
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Base.EditingForm.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Base.FInfoDialog.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Base.NavigationForm.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Browsing.FObjectStringBrowser.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Browsing.FTextInfo.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Work\##proj\###SubjectAreas_new\##WorldDivisionArea_PR\WorldDivisionArea_full\Common.Forms\obj\Debug\Common.Forms.pdb

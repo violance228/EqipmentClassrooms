@@ -1,0 +1,41 @@
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.csprojResolveAssemblyReference.cache
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.FObjectStringBrowser.resources
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.FTextInfo.resources
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Properties.Resources.resources
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.csproj.GenerateResource.Cache
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.dll.config
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Context.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Entities.dll
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Context.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Entities.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.pdb
+H:\SAM\####Програмування\Зразки проектiв_16_17\##Проекти для ЛР\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.Base.FInfoDialog.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.csprojResolveAssemblyReference.cache
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.Base.FInfoDialog.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.Base.NavigationForm.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.FObjectStringBrowser.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.FTextInfo.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Properties.Resources.resources
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.Browsing.csproj.GenerateResource.Cache
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\obj\Debug\Common.Forms.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.dll.config
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Forms.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Context.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Entities.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Data.dll
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Context.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Entities.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.pdb
+D:\progr\####Програмування\####Зразки проектів_16_17\GraphsArea\Common.Forms.Browsing\bin\Debug\Common.Data.pdb

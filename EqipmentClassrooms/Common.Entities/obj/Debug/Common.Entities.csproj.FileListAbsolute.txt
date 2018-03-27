@@ -1,0 +1,77 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\Common.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\bin\Debug\Common.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\bin\Debug\Common.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Entities\obj\Debug\Common.Entities.pdb

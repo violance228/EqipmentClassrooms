@@ -1,0 +1,25 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\ClassLibrary1\obj\Debug\Common.Characteristics.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

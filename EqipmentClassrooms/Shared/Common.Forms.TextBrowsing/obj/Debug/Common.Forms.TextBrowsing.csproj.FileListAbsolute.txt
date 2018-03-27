@@ -1,0 +1,85 @@
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.Base.FInfoDialog.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.FObjectStringBrowser.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.FTextInfo.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.Base.FInfoDialog.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.FObjectStringBrowser.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Browsing.FTextInfo.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Base.FInfoDialog.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FObjectStringBrowser.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Base.FInfoDialog.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FObjectStringBrowser.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll.config
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Forms.TextBrowsing.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Characteristics.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Base.FInfoDialog.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FObjectStringBrowser.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.Properties.Resources.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.TextBrowsing\obj\Debug\Common.Forms.TextBrowsing.pdb

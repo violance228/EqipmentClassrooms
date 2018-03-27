@@ -1,0 +1,25 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+K:\КУРСОВА\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+K:\КУРСОВА\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Events\bin\Debug\Common.Events.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Common.Events\obj\Debug\Common.Events.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Common.Data.Integrity.DataIntegrityController&lt;T, D&gt;">
+    <Position X="0.75" Y="2.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAJCAAAgIAAAACIAAAAJAABAAwBACIAAQAAAAgAAYAQ=</HashCode>
+      <FileName>DataIntegrityController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Common.Data.Integrity.Interfaces.IDataIntegrityController&lt;T&gt;">
+    <Position X="0.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Interfaces\IDataIntegrityController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

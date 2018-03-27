@@ -1,0 +1,37 @@
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.Cache
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\s3809\Documents\Visual Studio 2017\Projects\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Entities.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\ClassLibrary1.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Entities.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\ClassLibrary1.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\bin\Debug\Common.pdb
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.csprojResolveAssemblyReference.cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.Cache
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\NeoN\Desktop\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\bin\Debug\Common.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.TextBrowsing.FTextInfo.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Common.Forms\obj\Debug\Common.Forms.pdb

@@ -1,0 +1,440 @@
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Context.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Editing.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Storing.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Context.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Editing.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\bin\Debug\Common.Data.Storing.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Data.Forms\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Context.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Editing.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Context.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Editing.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z6\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Context.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Context.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Storing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_z8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-8\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-7\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_min_2-9\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+D:\progr\####Practica_2017\Зразки проектів\CountriesArea_PR_min_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\CountriesArea_PR_mid_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Data.Forms.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_PR_prim\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\Student\Downloads\CountriesArea_PR_prim_2-10\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+D:\progr\####Practica_2017\Зразки проектів\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+H:\SAM\####proj_C#\####CountriesArea_PR\##CountriesArea_basic\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Characteristics.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\bin\Debug\Common.Extensions.pdb
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\Практика\CountriesArea_basic_min\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\Практика\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\курсач\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\4ОК1\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+K:\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll.config
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Forms.Editing.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\ClassLibrary1.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Entities.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Exetensions.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\bin\Debug\Common.Data.FileIO.pdb
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csprojResolveAssemblyReference.cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FBindingListEditor.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.FEntitiesDataSetEditor.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.Properties.Resources.resources
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.csproj.GenerateResource.Cache
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.dll
+C:\Users\s3809\Desktop\КУРСОВА\EqipmentClassrooms\Shared\Common.Forms.Editing\obj\Debug\Common.Forms.Editing.pdb
